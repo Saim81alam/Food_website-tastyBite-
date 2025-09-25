@@ -10,8 +10,7 @@ import FullCard from "./component/food/FullCard";
 
 function App() {
   const [user, loading] = useAuthState(auth);
-
-  if (loading) return <p>Loading...</p>;
+  if (loading) return <p>Loading....</p>;
 
   return (
     <Routes>
