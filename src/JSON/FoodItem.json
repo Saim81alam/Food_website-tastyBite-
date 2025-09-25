@@ -1,0 +1,195 @@
+[
+  {
+    "category": "Pizza",
+    "types": [
+      {
+        "subcategory": "Popular",
+        "items": [
+          {
+            "id": 1,
+            "name": "Margherita Pizza",
+            "price": "₹149",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSX2w-6ljxAJtEImAJ4zBsRnou1CoSAVmgvQw&s",
+            "rating": 4.2
+
+          },
+          {
+            "id": 2,
+            "name": "Farmhouse Pizza",
+            "price": "₹199",
+            "image": "https://images.raasakarts.com/insecure/fit/1000/1000/ce/0/plain/https://rasakart-assets.s3.ap-south-1.amazonaws.com/3fa229/prods/mBB9I8e5F7rxj8iEDY9jDTxhRWCjNUSJaHWngMMh.jpg@webp",
+            "rating": 4.5
+          }
+        ]
+      },
+      {
+        "subcategory": "New",
+        "items": [
+          {
+            "id": 3,
+            "name": "Paneer Tikka Pizza",
+            "price": "₹179",
+            "image": "https://i.ytimg.com/vi/hFXtb5tO0zY/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLC6jve2sFyscrq_n7HVJz8X5OuMDg",
+            "rating": 4.3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Burger",
+    "types": [
+      {
+        "subcategory": "Popular",
+        "items": [
+          {
+            "id": 4,
+            "name": "Veg Burger",
+            "price": "₹99",
+            "image": "https://www.madhuseverydayindian.com/wp-content/uploads/2022/02/indian-veggie-burger-air-fryer.jpg",
+            "rating": 4.0
+          },
+          {
+            "id": 5,
+            "name": "Aloo Tikki Burger",
+            "price": "₹89",
+            "image": "https://ranveerbrar.com/wp-content/uploads/2021/02/Aloo-Tikki-Burger-scaled.jpg",
+            "rating": 4.1
+          },
+          {
+            "id": 6,
+            "name": "Paneer Burger",
+            "price": "₹109",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbH2DwKpKgRkKF7nPjVKHr312WBsbdvkCxvg&s",
+            "rating": 4.4
+          },
+          {
+            "id": 7,
+            "name": "Cheese Burger",
+            "price": "₹129",
+            "image": "https://rhubarbandcod.com/wp-content/uploads/2022/06/The-Classic-Cheeseburger-1.jpg",
+            "rating": 4.6
+          },
+          {
+            "id": 8,
+            "name": "Veg Burger",
+            "price": "₹99",
+            "image": "https://www.madhuseverydayindian.com/wp-content/uploads/2022/02/indian-veggie-burger-air-fryer.jpg",
+            "rating": 4.0
+          },
+          {
+            "id": 9,
+            "name": "Aloo Tikki Burger",
+            "price": "₹89",
+            "image": "https://ranveerbrar.com/wp-content/uploads/2021/02/Aloo-Tikki-Burger-scaled.jpg",
+            "rating": 4.1
+          }
+        ]
+      },
+      {
+        "subcategory": "New",
+        "items": [
+          {
+            "id": 10,
+            "name": "Aloo Tikki Burger",
+            "price": "₹89",
+            "image": "https://ranveerbrar.com/wp-content/uploads/2021/02/Aloo-Tikki-Burger-scaled.jpg",
+            "rating": 4.1
+          },
+          {
+            "id": 11,
+            "name": "Paneer Burger",
+            "price": "₹109",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbH2DwKpKgRkKF7nPjVKHr312WBsbdvkCxvg&s",
+            "rating": 4.4
+          },
+          {
+            "id": 12,
+            "name": "Cheese Burger",
+            "price": "₹129",
+            "image": "https://rhubarbandcod.com/wp-content/uploads/2022/06/The-Classic-Cheeseburger-1.jpg",
+            "rating": 4.6
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Roll",
+    "types": [
+      {
+        "subcategory": "Popular",
+        "items": [
+          {
+            "id": 13,
+            "name": "Paneer Roll",
+            "price": "₹79",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNUMhYLC9VfqG39NyKtC4YCmpohYkt8sngjw&s",
+            "rating": 4.4
+          },
+          {
+            "id": 14,
+            "name": "Cheese Egg Roll",
+            "price": "₹99",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEfmChTqHZs2PANVKHEv4-chVszmeAxIwS4g&s",
+            "rating": 4.6
+          },
+          {
+            "id": 15,
+            "name": "Chicken Roll",
+            "price": "₹109",
+            "image": "https://madscookhouse.com/wp-content/uploads/2021/02/Chicken-Kathi-Roll.jpg",
+            "rating": 4.8
+          },
+          {
+            "id": 16,
+            "name": "Veg Roll",
+            "price": "₹69",
+            "image": "https://c.ndtvimg.com/2024-02/bbvgfbmg_kathi-rolls_625x300_12_February_24.jpg",
+            "rating": 4.2
+          },
+          {
+            "id": 17,
+            "name": "Paneer Roll",
+            "price": "₹79",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNUMhYLC9VfqG39NyKtC4YCmpohYkt8sngjw&s",
+            "rating": 4.4
+          },
+          {
+            "id": 18,
+            "name": "Cheese Egg Roll",
+            "price": "₹99",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEfmChTqHZs2PANVKHEv4-chVszmeAxIwS4g&s",
+            "rating": 4.6
+          }
+        ]
+      },
+      {
+        "subcategory": "New",
+        "items": [
+          {
+            "id": 19,
+            "name": "Cheese Egg Roll",
+            "price": "₹99",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEfmChTqHZs2PANVKHEv4-chVszmeAxIwS4g&s",
+            "rating": 4.6
+          },
+          {
+            "id": 20,
+            "name": "Chicken Roll",
+            "price": "₹109",
+            "image": "https://madscookhouse.com/wp-content/uploads/2021/02/Chicken-Kathi-Roll.jpg",
+            "rating": 4.8
+          },
+          {
+            "id": 21,
+            "name": "Veg Roll",
+            "price": "₹69",
+            "image": "https://c.ndtvimg.com/2024-02/bbvgfbmg_kathi-rolls_625x300_12_February_24.jpg",
+            "rating": 4.2
+          }
+        ]
+      }
+    ]
+  }
+]
