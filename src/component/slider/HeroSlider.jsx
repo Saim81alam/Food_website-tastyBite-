@@ -37,7 +37,7 @@ const HeroSection = () => {
   }, []);
 
   return (
-    <div className=" w-full m-auto overflow-x-hidden px-4 mt-25 flex justify-center">
+    <div className=" max-w-5xl m-auto overflow-x-hidden px-4 mt-25 flex justify-center">
       <div className="relative w-full max-w-7xl aspect-[3/1] md:aspect-[16/5] rounded-3xl overflow-hidden shadow-md">
         {slides.map((slide, index) => (
           <div
