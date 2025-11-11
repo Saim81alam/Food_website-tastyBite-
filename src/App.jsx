@@ -47,7 +47,7 @@ function App() {
         }
       />
 
-      {/* <Route path="*" element={<Navigate to={user ? "/home" : "/auth"} />} /> */}
+      <Route path="*" element={<Navigate to={user ? "/auth" : "/home"} />} /> 
     </Routes>
   );
 }
